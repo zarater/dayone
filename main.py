@@ -1,3 +1,3 @@
 import pyautogui
 
-pyautogui.dragRel(stuff)
+pyautogui.dragRel(stuf f)
